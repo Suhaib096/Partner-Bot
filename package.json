@@ -1,8 +1,8 @@
 {
-  "name": "partnerproject",
+  "name": "ANOxDevV",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Ano.js",
   "dependencies": {
     "canvas": "^2.6.1",
     "dateformat": "^3.0.3",
@@ -32,13 +32,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iiTzK/DISCORD.git"
+    "url": "git+https://github.com/ANOxDevV/DISCORD.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iiTzK/DISCORD/issues"
+    "url": "https://github.com/ANOxDevV/DISCORD/issues"
   },
-  "homepage": "https://github.com/iiTzK/DISCORD#readme"
+  "homepage": "https://github.com/ANOxDevV/DISCORD#readme"
 }
